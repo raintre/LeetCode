@@ -1,3 +1,3 @@
 # Description
 
-Solutions for LeetCode with Python
+Solutions for LeetCode with Python3 and C++
